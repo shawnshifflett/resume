@@ -1,9 +1,9 @@
 
 This is my resume written in [LaTeX](https://www.latex-project.org/).
 
-This resume is based off a template I discovered modified by Scott Clark. See the (C) list at the top of the LaTeX code for a history.
+This resume is based off of a template that I discovered that was modified by [Scott Clark](https://github.com/sc932). See the (C) list at the top of the LaTeX code for a history of modifications.
 
-I have also included the original templates along with my resume.
+I have included the original templates and all contributors along with my resume.
 
 Feel free to fork and edit.
 
