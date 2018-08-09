@@ -7,7 +7,7 @@ I have included the original templates and all contributors along with my resume
 
 Feel free to fork and edit.
 
-In linux run
+In linux run:
 ```bash
 $ pdflatex resumeName.tex
 ```
