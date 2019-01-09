@@ -7,7 +7,7 @@ I have included the original templates and all contributors along with my resume
 
 Feel free to fork and edit.
 
-In linux run:
+In your preferred Unix / GNULinux distribution the following command should output the proper PDF from source:
 ```bash
 $ pdflatex resumeName.tex
 ```
