@@ -13,4 +13,4 @@ $ pdflatex resumeName.tex
 ```
 This should result in the creation of ``resumeName.pdf``
 
-My template was tested and published in [Overleaf](https://www.overleaf.com)
+My template was tested and published in [Overleaf](https://www.overleaf.com).
